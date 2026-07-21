@@ -1,0 +1,17 @@
+The Evolution of Artificial Intelligence
+Artificial intelligence (AI) has transformed from a niche academic field into a cornerstone of modern technology. At the forefront of this revolution 
+are Large Language Models (LLMs), which have reshaped how machines understand and generate human
+language. Unlike early rule-based systems, modern AI leverages deep neural networks trained on vast
+ceans of internet data. This allows systems to grasp context, nuance, and even complex reasoning.
+Natural Language Processing and Neural NetworksNatural Language Processing (NLP) bridges the gap between human communication and computer understanding.
+Through the use of transformer architectures, AI models can process billions of parameters simultaneously.
+These transformers utilize self-attention mechanisms, allowing the model to weigh the importance of different words in a sentence relative to one another.
+Consequently, the AI can maintain the context of a long paragraph rather than evaluating words in isolation.
+The Mechanism of TokenizationBefore an AI can process text, the text must be broken down into smaller, digestible pieces called tokens.
+A token can be a whole word, a sub-word, or even a single character. For instance, the word "artificial" might be split into "art", "i", "fic", and "ial". 
+This tokenization process converts raw text into numerical vectors that the neural network can manipulate mathematically, such as calculating distances of $10 × 10 ÷ 2$.
+The Necessity of Data ChunkingWhen building AI applications like chatbots or proprietary search engines, feeding an entire book or massive document into the model all at once is impractical. 
+This is primarily due to strict operational limitations, such as maximum context window sizes and high computational costs. To overcome this, developers rely on chunking. 
+Chunking is the process of splitting a large document into smaller, manageable, and semantically coherent segments (chunks).
+How Overlapping WorksIf documents are chunked blindly (e.g., stopping exactly at a character count), critical context can be fractured, leaving the AI unable to understand information that spans across the break point. 
+To solve this, developers implement overlapping chunks. By allowing consecutive chunks to share a portion of text, the system ensures contextual continuity.
