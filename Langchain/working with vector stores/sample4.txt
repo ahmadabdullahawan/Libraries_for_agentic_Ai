@@ -1,0 +1,19 @@
+Topic: Artificial Intelligence & Tech
+"Machine learning models learn patterns from training data to make predictions on new input.",
+"Deep neural networks consist of multiple layers that extract high-level features from raw text or images.",
+"FAISS is an open-source library built by Meta for efficient similarity search and clustering of dense vectors.",
+"Retrieval-Augmented Generation (RAG) improves LLM responses by querying external vector databases.",
+Topic: Space & Astronomy
+"The James Webb Space Telescope captures high-resolution infrared images of distant galaxies and nebulae.",
+"Mars rovers perform geological surveys and look for traces of ancient microbial life on the Red Planet.",
+"Black holes possess gravitational forces so strong that even light cannot escape their event horizons.",
+Topic: Culinary & Cooking
+"Traditional Italian pizza relies on a slow-fermented dough, San Marzano tomatoes, and fresh mozzarella.",
+"Sourdough bread baking requires a active starter culture made of fermented flour and natural yeast.",
+"Making a French omelette requires low heat, frequent whisking, and taking it off the stove while soft.",
+Topic: Finance & Economics
+"Central banks adjust benchmark interest rates to regulate inflation and maintain economic stability.",
+"Diversifying an investment portfolio across stocks, bonds, and real estate reduces overall market risk.",
+Topic: Health & Fitness
+"Aerobic exercise improves cardiovascular fitness, builds endurance, and boosts mental health.",
+"Getting seven to eight hours of quality sleep helps muscle recovery and cognitive performance."
